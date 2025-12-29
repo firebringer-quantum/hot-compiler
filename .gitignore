@@ -1,0 +1,30 @@
+.env
+quantum_venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.vscode/
+.idea/
+
+**/__pycache__/
+**/*.pyc
+
+*.egg-info/
+build/
+dist/
+.coverage
+htmlcov/
+
+Thumbs.db
+Desktop.ini
+
+benchmarks/artifacts/
+benchmarks/results.json
+
+Extra Resources/
+QDay Submission/
+HHL_Algorithm/
+Regev_Algorithm/

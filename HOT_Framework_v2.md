@@ -3,7 +3,7 @@
 ## Hardware-Optimized Techniques for Quantum Circuit Execution
 
 **Version:** 2.0  
-**Authors:** Justin Grammens / Firebringer AI  
+**Authors:** Justin Hughes / Firebringer AI  
 **Status:** Draft for Review
 
 ---
